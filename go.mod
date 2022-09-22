@@ -1,4 +1,4 @@
-module Thesis/Cherry
+module github.com/ducksoso/demo-kit
 
 go 1.14
 
