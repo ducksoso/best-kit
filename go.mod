@@ -1,5 +1,4 @@
-module github.com/ducksoso/demo-kit
+module github.com/ducksoso/best-kit
 
-go 1.14
+go 1.20
 
-require github.com/go-kit/kit v0.10.0 // indirect
