@@ -51,7 +51,7 @@ func SendMail(addr string, a Auth, from string, to []string, msg []byte) error
 ```
 
 
-## 目前用的最多的是 gomail
+## 目前用的最多的包是gomail
 
 https://github.com/go-gomail/gomail
 
